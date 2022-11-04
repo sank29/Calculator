@@ -1,7 +1,6 @@
 const num = document.querySelectorAll("#keyboard>div");
 const dis = document.querySelector("#input");
 
-// console.log(dis);
 for (i = 0; i < num.length; i++) {
   num[i].addEventListener("click", cal);
 }
