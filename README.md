@@ -1,5 +1,5 @@
 
-# calculator Web Application
+# calculator Web Application.
 
 Type: Individual Mini Project
 
